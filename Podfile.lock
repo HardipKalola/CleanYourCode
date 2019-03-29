@@ -1,0 +1,16 @@
+PODS:
+  - Periphery (1.4.0)
+
+DEPENDENCIES:
+  - Periphery
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Periphery
+
+SPEC CHECKSUMS:
+  Periphery: 88b0f2c4f290fb47b02d2faf8d9a3e2facf0b51f
+
+PODFILE CHECKSUM: 3ad2ccb21839ffc2db2c83a3c0862996704cd467
+
+COCOAPODS: 1.6.1
